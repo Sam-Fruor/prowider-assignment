@@ -156,7 +156,3 @@ To simulate payment gateway callbacks securely, the system addresses API repetit
 
 
 * **Log View:** A simulated embedded server terminal stream records network activities and database response codes live.
-
-```
-
-```
