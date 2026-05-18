@@ -8,8 +8,8 @@ Built with performance, consistency, and data integrity at its core, this applic
 ---
 
 ## 🚀 Live Demo & Project Assets
-*   **Live Application URL:** `[PASTE_YOUR_LIVE_VERCEL_APP_URL_HERE]`
-*   **GitHub Repository:** `[PASTE_YOUR_PUBLIC_GITHUB_REPO_URL_HERE]`
+*   **Live Application URL:** `https://prowider-assignment-three.vercel.app/`
+*   **GitHub Repository:** `https://github.com/Sam-Fruor/prowider-assignment`
 
 ---
 
